@@ -46,7 +46,7 @@
         </test>
     </tests>
 
-    <help><![CDATA[Takes a csv file of pdb codes and outputs MJ style energy matrix using the mypmfs training tool]]></help>
+    <help><![CDATA[This tool generates an amino acid energy matrix based on statistical potentials using the MyPMFs tool. It processes a user-provided CSV file of Protein Data Bank codes to calculate pairwise interaction energies between amino acids.]]></help>
     
     <citations>
         <citation type = "doi">doi:10.1016/j.biochi.2018.05.013</citation>
