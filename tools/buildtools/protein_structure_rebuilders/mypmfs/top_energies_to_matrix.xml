@@ -39,8 +39,8 @@
             <output name = "tabular_data" ftype = "tsv">
                 <assert_text>    
                     <has_text text = "KCAWCA\t-5.31084" />
-                    <has_line text = "WCAYCA\t-4.36443" />
-                    <has_line text = "GCAGCA\t-4.3505" />
+                    <has_text text = "WCAYCA\t-4.36443" />
+                    <has_text text = "GCAGCA\t-4.3505" />
                 </assert_text>
             </output>
         </test>
