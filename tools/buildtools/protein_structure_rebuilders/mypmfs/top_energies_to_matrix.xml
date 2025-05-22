@@ -37,11 +37,11 @@
                 </assert_contents>
             </output>
             <output name = "tabular_data" ftype = "tsv">
-                <assert_text>    
-                    <has_text text = "KCAWCA\t-5.31084" />
-                    <has_text text = "WCAYCA\t-4.36443" />
-                    <has_text text = "GCAGCA\t-4.3505" />
-                </assert_text>
+                <assert_contents>    
+                    <has_line line = "KCAWCA&#009;-5.31084" />
+                    <has_line line = "WCAYCA&#009;-4.36443" />
+                    <has_line line = "GCAGCA&#009;-4.3505" />
+                </assert_contents>
             </output>
         </test>
     </tests>
