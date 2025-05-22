@@ -3,6 +3,7 @@ import os
 
 from MyPMFs_py.module import batch_download, training
 
+
 def __main__():
 
     parser = argparse.ArgumentParser(description="Energy Matrix Generator")
