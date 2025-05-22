@@ -1,7 +1,7 @@
 import argparse
-from MyPMFs_py.module import batch_download, training
 import os
 
+from MyPMFs_py.module import batch_download, training
 
 def __main__():
 
